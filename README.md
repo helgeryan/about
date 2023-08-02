@@ -36,6 +36,7 @@ One of two iOS Developers working on the mobile application to interface with Xe
 Technologies Used:
 - Swift
 - UIKit
+- Core Data
 - BLE
 - NFC
 - RXSwift
@@ -52,6 +53,7 @@ Technologies Used:
 - Swift
 - Obj-c
 - UIKit
+- Core Data
 - AVKit
 - NFC
 - RXSwift
