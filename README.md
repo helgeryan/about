@@ -50,7 +50,7 @@ Technologies Used:
 - Swift
 - Obj-c
 - UIKit
-- AV
+- AVKit
 - NFC
 - RXSwift
 - Alamofire
