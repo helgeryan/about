@@ -26,7 +26,9 @@ Technologies Used:
 
 ### Personal Projects
 
-NBA Home App: SwiftUI app using SportsRadar API in a fun way to show SwiftUI coding. https://github.com/helgeryan/nbaHomeApp
+NBA Home App: SwiftUI app using SportsRadar API in a fun way to show SwiftUI coding (also uses AlamoFire). https://github.com/helgeryan/nbaHomeApp
+
+NFL Home App: SwiftUI app using SportsRadar API in a fun way to show SwiftUI coding (also uses AlamoFire and Async-Await). https://github.com/helgeryan/nflHomeApp
 
 RyanUI: Swift Package that holds common UI features across iOS projects. Distributed through Cocoapods (possible via Swift Package Manager as well). https://github.com/helgeryan/ryanUI
 
