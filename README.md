@@ -13,6 +13,8 @@ Love sports, played baseball at Augustana University for 5 years where we one th
 ### Released App - Under Radar
 High school baseball recruiting platform using Firebase backend. Players can upload pictures/videos/contact information to their profile for college coaches to view and use in their recruiting. 
 
+Link: https://apps.apple.com/us/app/under-radar/id1573958816
+
 Technologies Used:
 - Swift
 - UIKit
