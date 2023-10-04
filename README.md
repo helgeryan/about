@@ -10,13 +10,17 @@ Love sports, played baseball at Augustana University for 5 years where we one th
 
 ## Personal Projects 
 
-### Released App - Under Radar
+### Released App - Under Radar Baseball
 High school baseball recruiting platform using Firebase backend. Players can upload pictures/videos/contact information to their profile for college coaches to view and use in their recruiting. 
 
-Link: https://apps.apple.com/us/app/under-radar/id1573958816
+Link: https://apps.apple.com/us/app/under-radar-baseball/id6466339343
+
+NOTE: This is a totally refactored version of the original Under Radar app that I created back in 2020-2021 found at this link:
+https://apps.apple.com/us/app/under-radar/id1573958816
 
 Technologies Used:
 - Swift
+- SwfitUI
 - UIKit
 - Cocoapods
 - Firebase Storage
