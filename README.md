@@ -27,8 +27,22 @@ Technologies Used:
 - Firebase Auth
 - Firebase Realtime Database
 - AVKit
+- Async-Await
+- Codable/Json
+- Push Notifications
+- Apple Subscriptions
+- XCTest/XCUITest Frameworks
 
 ### Personal Projects
+
+NFC Tokens: Example app used to display ability to implement a simple app to read/write NFC Tags. https://github.com/helgeryan/NFCTokens
+
+Technologies Used:
+- Swift
+- UIKit
+- CoreNFC
+- Cocoapods (Lottie)
+- Async-Await
 
 NBA Home App: SwiftUI app using SportsRadar API in a fun way to show SwiftUI coding (also uses AlamoFire). https://github.com/helgeryan/nbaHomeApp
 
