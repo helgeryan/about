@@ -44,6 +44,8 @@ Technologies Used:
 - Cocoapods (Lottie)
 - Async-Await
 
+Bluetooth Example App: SwiftUI app used to display ability to implement the CoreBluetooth framework provided by Apple. https://github.com/helgeryan/bluetooth
+
 NBA Home App: SwiftUI app using SportsRadar API in a fun way to show SwiftUI coding (also uses AlamoFire). https://github.com/helgeryan/nbaHomeApp
 
 NFL Home App: SwiftUI app using SportsRadar API in a fun way to show SwiftUI coding (also uses AlamoFire and Async-Await). https://github.com/helgeryan/nflHomeApp
