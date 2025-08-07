@@ -1,12 +1,12 @@
 # Ryan Helgeson - iOS Developer
 
-Looking to build upon my career in iOS Development. Started developing in iOS in early 2020, after working internships as a software engineer and biomechanics. Passionate worker with an enthusiasm to continue learning all facets of iOS development.
+I am looking to build upon my career in iOS Development. Started developing in iOS in early 2020, after working internships as a software engineer and biomechanics. I am a fast starter and am adaptible to many different environements. 
 
-Currently researching SwiftUI and the power it brings to quick UI development. Working part-time as an iOS Engineer at Modus Engagement Inc. supporting the full-time engineer with code reviews and mentoring.
+Currently, I am researching SwiftUI and the power it brings to quick UI development. I stay up to date with iOS and the changes Apple makes every year at their companies WWDC. Always looking for the opportunities that it may provide to developers as a whole, and specifically to the role I am in.
 
-Most recent full-time work is June 29th, 2023 at Xeal as an iOS Engineer. Let go as a result of budget cuts due to a smaller than expected EV charging market. Willing to provide references of performance while at Xeal upon request.
+Most recent full-time work is 2025 at Switcher Studio as an iOS Engineer.
 
-Love sports, played baseball at Augustana University for 5 years where we one the D2 National Championship in 2018. Play in multiple fantasy leagues across NFL and MLB, and am always willing to join more. 
+I am a strong interest in sports, as I played baseball at Augustana University for 5 years where we one the D2 National Championship in 2018. As a hobby I play in multiple fantasy leagues across NFL and MLB, and am always willing to join more!
 
 ## Personal Projects 
 
@@ -53,6 +53,27 @@ NFL Home App: SwiftUI app using SportsRadar API in a fun way to show SwiftUI cod
 RyanUI: Swift Package that holds common UI features across iOS projects. Distributed through Cocoapods (possible via Swift Package Manager as well). https://github.com/helgeryan/ryanUI
 
 ## iOS Work History 
+
+### Switcher Studio (June 2024 - August 2025)
+Part of the iOS application team. Role focused on new app features involving multistreaming and data analytics. 
+
+Technologies Used:
+- Swift
+- UIKit
+- Objc
+- Combine
+- Async-await
+- Crashlytics
+- Clarity
+- BigQuery
+- XCFrameworks
+- XCTest (Snapshot testing: https://github.com/pointfreeco/swift-snapshot-testing)
+
+Ryan is a resourceful and highly capable engineer whose skills exceed expectations for his level of experience. He is a proactive and fast learner who embraces new challenges with enthusiasm and effectiveness. Ryan consistently demonstrates strong communication skills—clearly articulating his ideas and offering mentorship to those around him.
+
+He excels at identifying and resolving complex production issues, catching subtle problems during code reviews, and spotting critical gaps during refinement sessions. Recently, Ryan led the technical design of a cross-sprint initiative, thoughtfully breaking down the work and enabling the team to deliver the solution collaboratively and efficiently.
+
+It has been a pleasure working with Ryan. He brings both technical strength and a collaborative spirit to any team, and I recommend him without hesitation. I hope to have the opportunity to work with him again in the future.
 
 ### Xeal
 One of two iOS Developers working on the mobile application to interface with Xeal chargers to provide a seemless tap-to-start experience to drivers.
