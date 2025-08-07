@@ -75,7 +75,7 @@ He excels at identifying and resolving complex production issues, catching subtl
 
 It has been a pleasure working with Ryan. He brings both technical strength and a collaborative spirit to any team, and I recommend him without hesitation. I hope to have the opportunity to work with him again in the future.
 
-### Xeal
+### Xeal (January 2023 - June 2023)
 One of two iOS Developers working on the mobile application to interface with Xeal chargers to provide a seemless tap-to-start experience to drivers.
 
 Technologies Used:
@@ -91,7 +91,7 @@ Technologies Used:
 - XCTest (Snapshot testing: https://github.com/pointfreeco/swift-snapshot-testing)
 
 
-### Modus Engagement Inc
+### Modus Engagement Inc (September 2021 - August 2023)
 iOS Developer working on the sales enablement mobile application provides to 50+ companies accross the world. Multiple app targets.
 
 Technologies Used:
