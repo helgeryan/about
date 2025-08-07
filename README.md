@@ -67,7 +67,7 @@ Technologies Used:
 - Clarity
 - BigQuery
 - XCFrameworks
-- XCTest (Snapshot testing: https://github.com/pointfreeco/swift-snapshot-testing)
+- XCTest
 
 Ryan is a resourceful and highly capable engineer whose skills exceed expectations for his level of experience. He is a proactive and fast learner who embraces new challenges with enthusiasm and effectiveness. Ryan consistently demonstrates strong communication skills—clearly articulating his ideas and offering mentorship to those around him.
 
